@@ -7,7 +7,7 @@ For this purpose, we have identified the following **tasks**:
 
 - [ ] Understand the **overall structure** of the source code
 - [ ] Dissect the source code into its **main elements** according to its pertaining front-end technologies (such as HTML, CSS and JavaScript)
-- [ ] Understand how they **interact** with another for generating the final result (namely the memory game)
+- [ ] Understand how they **interact** with one another for generating the final result (namely the memory game)
 - [ ] Identify means of **running the application** both locally and in a web server
 - [ ] Investigate options of extending (and therefore **individualizing**) the memory game
 
