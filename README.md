@@ -19,5 +19,5 @@ The **motivation** for setting up this repository arose from a friendly first co
 One real-world problem is setting up a **memory game** that others can access and play around with - while this game could be considered rather simple and trite, it nonetheless serves as an excellent starting point for acquiring skills necessary to create and appropriately set up an application (and for that matter also timeless and classic game) written in HTML, CSS and JavaScript. As this project evolves, additional features and extensions could allow us to increase the complexity of the underlying application and hence turn this project into a unique contribution to the vast array of already excellent beginner projects online that could potentially help inspire others eager to learn front-end programming in their first steps.
 
 ## Structure of the source code
-...
+......
 
